@@ -1,2 +1,21 @@
-# BWB_SeminarNFT_Demo
-BWB_SeminarNFT
+# Wafflestay_Web
+
+This project is WafflestayWeb service
+
+PORT : 3030
+
+## Description
+
+Wafflestay_Web repository.
+
+## Installation
+
+```bash
+$ npm install
+```
+## Running the app
+
+```bash
+$ npm start
+```
+
